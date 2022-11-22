@@ -4,6 +4,7 @@ ipywidgets
 jupyterlab
 jupytext
 nbconvert
+nbgitpuller
 numpy
 matplotlib
 pandas
