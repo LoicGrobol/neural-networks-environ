@@ -12,4 +12,5 @@ regex
 seaborn
 scikit-learn
 tol-colors
+torch
 RISE
