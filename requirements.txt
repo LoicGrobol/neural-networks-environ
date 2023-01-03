@@ -10,6 +10,7 @@ numpy
 matplotlib
 pandas
 regex
+sacremoses
 seaborn
 scikit-learn
 tol-colors
