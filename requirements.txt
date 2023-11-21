@@ -2,7 +2,8 @@ conllu
 datasets
 ipympl
 ipywidgets
-jupyterlab != 4.0.9
+jupyter_server != 2.11.0
+jupyterlab
 jupyterlab_rise
 jupytext
 nbconvert
